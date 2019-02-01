@@ -1,0 +1,7 @@
+*.wav
+*.aiff
+*aif
+
+.*.swp
+
+.DS_Store
